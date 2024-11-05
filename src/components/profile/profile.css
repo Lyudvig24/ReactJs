@@ -1,0 +1,43 @@
+.profile-image {
+    width: 150px; 
+    height: auto;
+    margin-right: 10px; 
+  }
+
+  .cover-image-conteiner {
+    
+
+  }
+
+  .cover-image {
+    
+
+ }
+  
+  .content {
+    background-color: rgba(19, 11, 11, 0.233);
+    color: white;
+    
+  }
+
+
+ .img-desc {
+  display: flex;
+
+  
+  }
+
+  .link {
+    color: white;
+
+  }
+
+  .description {
+    margin: 5px 0;
+  }
+
+
+  .name-author {
+    margin-bottom: 25px;
+  }
+

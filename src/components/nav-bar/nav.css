@@ -1,0 +1,29 @@
+.nav {
+    grid-area: n;
+    background-color: rgb(253, 223, 123);
+    padding: 15px;
+}
+
+
+.item {
+    font-size: 25px;
+    margin:10px;
+    color:rgb(52, 133, 158);
+
+}
+
+.item a {
+    text-decoration: none;
+    color: gray;
+
+}
+
+.item a:focus {
+    color: rgb(247, 177, 91);
+}
+
+
+
+.item-settings {
+    margin-top: 36px;
+}
